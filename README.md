@@ -1,7 +1,9 @@
+# My-First-Repo
+
 PROJECT NAME
 
-BY THE LADS
-MEMBERS: Finley Morris, Matt McConachie,Eoin Moffatt (LIST OF MEMBERS)
+BY (TEAM NAME)
+MEMBERS: Finley Morris, Matt McConachie, (LIST OF MEMBERS)
 
 OVERVIEW OF GAME
 What is your game about? What are its key mechanics? What are its main narrative
@@ -29,8 +31,3 @@ e.g: shed, grass, grass with flowerss, key, character, trees, rocks.
 - Placed each asset into the tile map and decided the layout of where they should go 
 - with the graph there was white lines caused by the stroke (245) in the debug function, which we resolved. 
 - stuggle of the tree asset filling the tile space, which we later resolved and redesigned and uploaded the new version onto the sketch.js. 
-
-
-EOIN AND MATT'S UPDATE 5/3/2024 
-- the plan was to have the key design all working however we were having issues in regards to inputing the actual sprite 
-- added light code notes from player.js to sketch.js relating to the key and where it was meant to be
