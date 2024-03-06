@@ -1,13 +1,12 @@
 # My-First-Repo
 
-PROJECT NAME
+MA1805 Project
 
-BY (TEAM NAME)
+BY The Lads
 MEMBERS: Finley Morris, Matt McConachie, (LIST OF MEMBERS)
 
 OVERVIEW OF GAME
-What is your game about? What are its key mechanics? What are its main narrative
-ideas and themes?
+The character wakes up in a field and has to explore to find items they can use to escape.
 
 INDIVIDUAL CONTRIBUTIONS
 (Each group member should write a short section outlining what they contributed
