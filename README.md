@@ -3,7 +3,7 @@
 PROJECT NAME
 
 BY "The Lads"
-MEMBERS: Finley Morris, Matt McConachie, Eoin Moffatt,  (LIST OF MEMBERS)
+MEMBERS: Finley Morris, Matt McConachie, Eoin Moffatt, Silvia d'Alessandro, Isabelle Griffiths 
 
 OVERVIEW OF GAME
 What is your game about? What are its key mechanics? What are its main narrative
