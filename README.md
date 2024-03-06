@@ -3,7 +3,7 @@
 PROJECT NAME
 
 BY (TEAM NAME)
-MEMBERS: Finley Morris, Matt McConachie, (LIST OF MEMBERS)
+MEMBERS: Finley Morris, Matt McConachie, Eoin Moffatt,  (LIST OF MEMBERS)
 
 OVERVIEW OF GAME
 What is your game about? What are its key mechanics? What are its main narrative
