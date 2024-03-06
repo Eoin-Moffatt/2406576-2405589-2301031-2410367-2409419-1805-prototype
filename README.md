@@ -2,7 +2,7 @@
 
 PROJECT NAME
 
-BY (TEAM NAME)
+BY "The Lads"
 MEMBERS: Finley Morris, Matt McConachie, Eoin Moffatt,  (LIST OF MEMBERS)
 
 OVERVIEW OF GAME
