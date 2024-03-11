@@ -31,3 +31,8 @@ e.g: shed, grass, grass with flowerss, key, character, trees, rocks.
 - Placed each asset into the tile map and decided the layout of where they should go 
 - with the graph there was white lines caused by the stroke (245) in the debug function, which we resolved. 
 - stuggle of the tree asset filling the tile space, which we later resolved and redesigned and uploaded the new version onto the sketch.js. 
+
+Matt/Eoin - 5/3/2024
+-Worked on the key and pick up 
+- did put comments however not correctly appearing
+- 
