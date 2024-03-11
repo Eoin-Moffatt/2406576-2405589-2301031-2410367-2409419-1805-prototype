@@ -1,6 +1,6 @@
 # My-First-Repo
 
-PROJECT NAME
+PROJECT NAME: MA1805 coding project
 
 BY "The Lads"
 MEMBERS: Finley Morris, Matt McConachie, Eoin Moffatt, Silvia d'Alessandro, Isabelle Griffiths 
