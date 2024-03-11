@@ -33,6 +33,7 @@ e.g: shed, grass, grass with flowerss, key, character, trees, rocks.
 - stuggle of the tree asset filling the tile space, which we later resolved and redesigned and uploaded the new version onto the sketch.js. 
 
 Matt/Eoin - 5/3/2024
+
 -Worked on the key and pick up 
 - did put comments however not correctly appearing
 
