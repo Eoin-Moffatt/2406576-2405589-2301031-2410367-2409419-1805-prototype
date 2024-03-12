@@ -36,4 +36,10 @@ Matt/Eoin - 5/3/2024
 
 -Worked on the key and pick up 
 - did put comments however not correctly appearing
+- 12/03/2024:
+-  - key can be picked up and is loaded onto the tile
+- commented code for the key.
+- beginnings of a tilemap for lava with placeholder until we get the asset for it.
+- now foucsing on creation of the tilemap. 
+  
 
