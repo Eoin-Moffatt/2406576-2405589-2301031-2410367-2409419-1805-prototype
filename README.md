@@ -40,6 +40,7 @@ Matt/Eoin - 5/3/2024
 -  - key can be picked up and is loaded onto the tile
 - commented code for the key.
 - beginnings of a tilemap for lava with placeholder until we get the asset for it.
-- now foucsing on creation of the tilemap. 
+- now foucsing on creation of the tilemap.
+- code for making the key a class has been restarted but kept as commented code
   
 
