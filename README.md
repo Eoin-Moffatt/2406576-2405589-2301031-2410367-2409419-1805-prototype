@@ -1,6 +1,6 @@
 # 2406576-2405589-2301031-2410367-2409419-1805
 
-PROJECT NAME: MA1805 coding project
+PROJECT NAME: MA1805 Escape Project
 
 BY "The Lads"
 MEMBERS: Finley Morris, Matt McConachie, Eoin Moffatt, Silvia d'Alessandro, Isabelle Griffiths 
